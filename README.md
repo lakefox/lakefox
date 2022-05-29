@@ -1,4 +1,4 @@
-### Current Projects
+### Current Initiatives
 * Learning Flutter
 * Building an awesome website
 
