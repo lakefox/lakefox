@@ -20,6 +20,7 @@ jobs:
     steps:
     - name: Checkout
       uses: actions/checkout@v2.4.2
+      # Outputs svg to https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file>
     - name: generate-snake-game-from-github-contribution-grid
       uses: Platane/snk@v2
       with:
