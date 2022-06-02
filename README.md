@@ -9,8 +9,6 @@ to come up with any reasonable ideas. A developer who always has to learn new te
 And last but not least, a developer whos Github will probably always be dryer than the sahara.
 
 ### Github Stats :computer:
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Bitlatte)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bitlatte&hide=commits&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bitlatte)](https://git.io/streak-stats)
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Bitlatte&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
