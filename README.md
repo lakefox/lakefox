@@ -1,4 +1,6 @@
-![GitHub Snake Light](dist/github-snake.gif)
+<div align='center'>
+  <img src='https://raw.githubusercontent.com/Bitlatte/Bitlatte/output/github-snake.svg' />
+</div>
 
 ### Currently Working on :pencil2:
 * Learning Flutter
