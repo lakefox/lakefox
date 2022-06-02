@@ -9,7 +9,7 @@ to come up with any reasonable ideas. A developer who always has to learn new te
 And last but not least, a developer whos Github will probably always be dryer than the sahara.
 
 ### Github Stats :
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bitlatte&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bitlatte&show_icons=true&theme=synthwave)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bitlatte)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bitlatte&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
