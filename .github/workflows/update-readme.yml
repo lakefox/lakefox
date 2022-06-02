@@ -18,13 +18,13 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
+    - name: Checkout
+      uses: actions/checkout@v2.4.2
     - name: generate-snake-game-from-github-contribution-grid
       uses: Platane/snk@v2.0.0-rc.2
       with:
         github_user_name: ${{ github.repository_owner }}
         outputs: github-snake.svg
-    - name: Checkout
-      uses: actions/checkout@v2.4.2
     - uses: jamesgeorge007/github-activity-readme@master
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
