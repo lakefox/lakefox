@@ -10,7 +10,7 @@ And last but not least, a developer whos Github will probably always be dryer th
 
 ### Github Stats :computer:
 <div align='center'>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bitlatte&show_icons=true)
+  <img src='https://github-readme-stats.vercel.app/api/pin/?username=Bitlatte&show_icons=true'>
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bitlatte)](https://git.io/streak-stats)
   [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Bitlatte&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
