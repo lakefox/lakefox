@@ -1,4 +1,4 @@
-![GitHub Snake Light](github-snake.gif)
+![GitHub Snake Light](dist/github-snake.gif)
 
 ### Currently Working on :pencil2:
 * Learning Flutter
