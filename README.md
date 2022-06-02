@@ -3,8 +3,9 @@
 </div>
 
 ### Currently Working on :pencil2:
-* Learning Flutter
-* Building an awesome website
+<div align='center'>
+  <img width='49.5%' src='https://github-readme-stats.vercel.app/api/pin/?username=Bitlatte&repo=vite-react' />
+</div>
 
 ### Who is Bitlatte :question:
 Think of me (Bitlatte) as a less functional, caffine and adrineline driven, professional hobbiest.
