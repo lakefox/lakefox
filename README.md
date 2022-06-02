@@ -18,3 +18,7 @@ I work on in the near future.
 Plans are for rookies, real programmers don\'t save before walking away from the computer.
 Real programmers don\'t error handle. And most importantly, real programmers use the same
 basic commit message when pushing code to a repo... "Initial Commit"
+
+### Recent Activity :zap:
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
