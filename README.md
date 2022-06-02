@@ -10,9 +10,9 @@ And last but not least, a developer whos Github will probably always be dryer th
 
 ### Github Stats :computer:
 <div align='center'>
-  <img align='center' width='49.5%' src='https://github-readme-stats.vercel.app/api?username=Bitlatte&show_icons=true&hide_border=true' />
-  <img align='center' width='49.5%' src='https://github-readme-streak-stats.herokuapp.com/?user=Bitlatte&hide_border=true' />
-  <img width='80%' src='https://activity-graph.herokuapp.com/graph?username=Bitlatte&theme=minimal' />
+  <img width='49.5%' src='https://github-readme-stats.vercel.app/api?username=Bitlatte&show_icons=true&hide_border=true' />
+  <img width='49.5%' src='https://github-readme-streak-stats.herokuapp.com/?user=Bitlatte&hide_border=true' />
+  <img width='99%'  src='https://activity-graph.herokuapp.com/graph?username=Bitlatte&theme=minimal' />
 </div>
 
 ### Plans :scroll:
