@@ -22,7 +22,7 @@ jobs:
       uses: Platane/snk@v2.0.0-rc.2
       with:
         github_user_name: ${{ github.repository_owner }}
-        outputs: dist/github-snake-svg
+        outputs: github-snake.svg
     - name: Checkout
       uses: actions/checkout@v2.4.2
     - uses: jamesgeorge007/github-activity-readme@master
