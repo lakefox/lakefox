@@ -8,7 +8,7 @@ Basically speaking... I\'m a developer. A developer who, despite my attempts, ca
 to come up with any reasonable ideas. A developer who always has to learn new technology.
 And last but not least, a developer whos Github will probably always be dryer than the sahara.
 
-### Open Source :pick:
+### Open Source :milky_way:
 Do I currently contribute to open source? No. Would I like to? Yes. I am a strong supporter of
 open source projects and while I have been at this whole development thing for quite some time
 I still have yet to take a deep dive into open source contributions. Maybe this will be something
