@@ -1,3 +1,5 @@
+![GitHub Snake Light](github-snake.gif)
+
 ### Currently Working on :pencil2:
 * Learning Flutter
 * Building an awesome website
