@@ -4,7 +4,12 @@
 
 ### Currently Working on :pencil2:
 <div align='center'>
-  <img width='49.5%' src='https://github-readme-stats.vercel.app/api/pin/?username=Bitlatte&repo=vite-react' />
+  <a href='https://github.com/Bitlatte/vite-react'>
+    <img width='49.5%' src='https://github-readme-stats.vercel.app/api/pin/?username=Bitlatte&repo=vite-react' />
+  </a>
+  <a href=https://github.com/Bitlatte/bitlatte.io''>
+    <img width='49.5%' src='https://github-readme-stats.vercel.app/api/pin/?username=Bitlatte&repo=bitlatte.io' />
+  </a>
 </div>
 
 ### Who is Bitlatte :question:
