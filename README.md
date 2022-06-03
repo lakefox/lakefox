@@ -21,9 +21,9 @@
 
 ### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/M-a-s-o-n/spre/pull/1) in [M-a-s-o-n/spre](https://github.com/M-a-s-o-n/spre)
-2. 💪 Opened PR [#1](https://github.com/M-a-s-o-n/spre/pull/1) in [M-a-s-o-n/spre](https://github.com/M-a-s-o-n/spre)
-3. 💪 Opened PR [#2](https://github.com/lakefox/freekill/pull/2) in [lakefox/freekill](https://github.com/lakefox/freekill)
-4. 🗣 Commented on [#1](https://github.com/lakefox/freekill/issues/1) in [lakefox/freekill](https://github.com/lakefox/freekill)
-5. 💪 Opened PR [#1](https://github.com/lakefox/freekill/pull/1) in [lakefox/freekill](https://github.com/lakefox/freekill)
+1. 🗣 Commented on [#1](https://github.com/lakefox/lakefox/issues/1) in [lakefox/lakefox](https://github.com/lakefox/lakefox)
+2. 🗣 Commented on [#1](https://github.com/M-a-s-o-n/spre/issues/1) in [M-a-s-o-n/spre](https://github.com/M-a-s-o-n/spre)
+3. 🎉 Merged PR [#2](https://github.com/lakefox/freekill/pull/2) in [lakefox/freekill](https://github.com/lakefox/freekill)
+4. 🎉 Merged PR [#1](https://github.com/lakefox/freekill/pull/1) in [lakefox/freekill](https://github.com/lakefox/freekill)
+5. 🗣 Commented on [#1](https://github.com/lakefox/freekill/issues/1) in [lakefox/freekill](https://github.com/lakefox/freekill)
 <!--END_SECTION:activity-->
