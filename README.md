@@ -15,8 +15,8 @@
 ### Github Stats :computer:
 <div align='center'>
   <img width='49.5%' src='https://github-readme-stats.vercel.app/api?username=Bitlatte&show_icons=true&hide_border=true' />
-  <img width='49.5%' src='https://github-readme-streak-stats.herokuapp.com/?user=lakefox&hide_border=true' />
-  <img width='99%'  src='https://activity-graph.herokuapp.com/graph?username=lakefox&theme=minimal&hide_border=true' />
+  <img width='49.5%' src='https://github-readme-streak-stats.herokuapp.com/?user=Bitlatte&hide_border=true' />
+  <img width='99%'  src='https://activity-graph.herokuapp.com/graph?username=Bitlatte&theme=minimal&hide_border=true' />
 </div>
 
 ### Recent Activity :zap:
