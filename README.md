@@ -12,23 +12,12 @@
   </a>
 </div>
 
-### Who is Bitlatte :question:
-Think of me (Bitlatte) as a less functional, caffine and adrineline driven, professional hobbiest.
-Basically speaking... I\'m a developer. A developer who, despite my attempts, can never seem
-to come up with any reasonable ideas. A developer who always has to learn new technology.
-And last but not least, a developer whos Github will probably always be dryer than the sahara.
-
 ### Github Stats :computer:
 <div align='center'>
   <img width='49.5%' src='https://github-readme-stats.vercel.app/api?username=Bitlatte&show_icons=true&hide_border=true' />
   <img width='49.5%' src='https://github-readme-streak-stats.herokuapp.com/?user=Bitlatte&hide_border=true' />
   <img width='99%'  src='https://activity-graph.herokuapp.com/graph?username=Bitlatte&theme=minimal&hide_border=true' />
 </div>
-
-### Plans :scroll:
-Plans are for rookies, real programmers don\'t save before walking away from the computer.
-Real programmers don\'t error handle. And most importantly, real programmers use the same
-basic commit message when pushing code to a repo... "Initial Commit"
 
 ### Recent Activity :zap:
 <!--START_SECTION:activity-->
