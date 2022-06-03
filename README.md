@@ -1,5 +1,5 @@
 <div align='center'>
-  <img src='https://raw.githubusercontent.com/Bitlatte/Bitlatte/output/github-snake.svg' />
+  <img width='90%' src='https://raw.githubusercontent.com/Bitlatte/Bitlatte/output/github-snake.svg' />
 </div>
 
 ### Currently Working on :pencil2:
