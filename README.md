@@ -7,7 +7,7 @@
   <a href='https://github.com/Bitlatte/vite-react'>
     <img width='49.5%' src='https://github-readme-stats.vercel.app/api/pin/?username=Bitlatte&repo=vite-react' />
   </a>
-  <a href=https://github.com/Bitlatte/REST-boilerplate''>
+  <a href='https://github.com/Bitlatte/REST-boilerplate'>
     <img width='49.5%' src='https://github-readme-stats.vercel.app/api/pin/?username=Bitlatte&repo=REST-boilerplate' />
   </a>
 </div>
