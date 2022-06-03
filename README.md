@@ -4,8 +4,8 @@
 
 ### Currently Working on :pencil2:
 <div align='center'>
-  <a href='https://github.com/llib-sh/library'>
-    <img width='49.5%' src='https://github-readme-stats.vercel.app/api/pin/?username=llib.sh&repo=library' />
+  <a href='https://github.com/lakefox/megaquery'>
+    <img width='49.5%' src='https://github-readme-stats.vercel.app/api/pin/?username=lakefox&repo=megaquery' />
   </a>
   <a href='https://github.com/lakefox/p2p-network'>
     <img width='49.5%' src='https://github-readme-stats.vercel.app/api/pin/?username=lakefox&repo=p2p-network' />
