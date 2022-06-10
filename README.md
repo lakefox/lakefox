@@ -21,9 +21,9 @@
 
 ### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/Bitlatte/Bitlatte/issues/1) in [Bitlatte/Bitlatte](https://github.com/Bitlatte/Bitlatte)
-2. 🗣 Commented on [#1](https://github.com/lakefox/lakefox/issues/1) in [lakefox/lakefox](https://github.com/lakefox/lakefox)
-3. 🗣 Commented on [#1](https://github.com/M-a-s-o-n/spre/issues/1) in [M-a-s-o-n/spre](https://github.com/M-a-s-o-n/spre)
-4. 🎉 Merged PR [#2](https://github.com/lakefox/freekill/pull/2) in [lakefox/freekill](https://github.com/lakefox/freekill)
-5. 🎉 Merged PR [#1](https://github.com/lakefox/freekill/pull/1) in [lakefox/freekill](https://github.com/lakefox/freekill)
+1. 💪 Opened PR [#1](https://github.com/Bitlatte/jellybean/pull/1) in [Bitlatte/jellybean](https://github.com/Bitlatte/jellybean)
+2. ❗️ Opened issue [#1](https://github.com/Bitlatte/Bitlatte/issues/1) in [Bitlatte/Bitlatte](https://github.com/Bitlatte/Bitlatte)
+3. 🗣 Commented on [#1](https://github.com/lakefox/lakefox/issues/1) in [lakefox/lakefox](https://github.com/lakefox/lakefox)
+4. 🗣 Commented on [#1](https://github.com/M-a-s-o-n/spre/issues/1) in [M-a-s-o-n/spre](https://github.com/M-a-s-o-n/spre)
+5. 🎉 Merged PR [#2](https://github.com/lakefox/freekill/pull/2) in [lakefox/freekill](https://github.com/lakefox/freekill)
 <!--END_SECTION:activity-->
