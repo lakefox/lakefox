@@ -4,7 +4,7 @@
 
 ### Currently Working on :pencil2:
 <div align='center'>
-  <a href='https://github.com/lakefox/megaquery'>
+  <a href='https://github.com/lakefox/CARD_SAT'>
     <img width='49.5%' src='https://github-readme-stats.vercel.app/api/pin/?username=lakefox&repo=CARD_SAT' />
   </a>
   <a href='https://github.com/lakefox/p2p-network'>
