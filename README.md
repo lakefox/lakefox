@@ -21,9 +21,9 @@
 
 ### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/lakefox/fyn/pull/1) in [lakefox/fyn](https://github.com/lakefox/fyn)
-2. ❗️ Closed issue [#4](https://github.com/Bitlatte/cocobean/issues/4) in [Bitlatte/cocobean](https://github.com/Bitlatte/cocobean)
-3. 🗣 Commented on [#3](https://github.com/Bitlatte/cocobean/issues/3) in [Bitlatte/cocobean](https://github.com/Bitlatte/cocobean)
-4. ❗️ Opened issue [#4](https://github.com/Bitlatte/cocobean/issues/4) in [Bitlatte/cocobean](https://github.com/Bitlatte/cocobean)
-5. 🎉 Merged PR [#2](https://github.com/Bitlatte/cocobean/pull/2) in [Bitlatte/cocobean](https://github.com/Bitlatte/cocobean)
+1. 💪 Opened PR [#1](https://github.com/Bitlatte/beam/pull/1) in [Bitlatte/beam](https://github.com/Bitlatte/beam)
+2. ❌ Closed PR [#1](https://github.com/lakefox/fyn/pull/1) in [lakefox/fyn](https://github.com/lakefox/fyn)
+3. ❗️ Closed issue [#4](https://github.com/Bitlatte/cocobean/issues/4) in [Bitlatte/cocobean](https://github.com/Bitlatte/cocobean)
+4. 🗣 Commented on [#3](https://github.com/Bitlatte/cocobean/issues/3) in [Bitlatte/cocobean](https://github.com/Bitlatte/cocobean)
+5. ❗️ Opened issue [#4](https://github.com/Bitlatte/cocobean/issues/4) in [Bitlatte/cocobean](https://github.com/Bitlatte/cocobean)
 <!--END_SECTION:activity-->
